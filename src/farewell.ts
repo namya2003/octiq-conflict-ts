@@ -1,3 +1,3 @@
 export function farewell(name: string): string {
-  return `cya, ${name}`
+  return `ciao, ${name}`
 }
