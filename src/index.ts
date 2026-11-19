@@ -1,2 +1,2 @@
-export { greeting } from './greeting.js'
+export { greet } from './greeting.js'
 export { farewell } from './farewell.js'
