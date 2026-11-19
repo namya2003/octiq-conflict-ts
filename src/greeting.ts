@@ -1,3 +1,3 @@
-export function greet(name: string): string {
+export function heyyyy(name: string): string {
   return `howdy, ${name}`
 }
