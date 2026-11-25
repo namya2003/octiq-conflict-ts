@@ -11,6 +11,6 @@ choosing a side.
 ```ts
 import { greeting } from "./src/greeting.js"
 
-greeting("Sam") // "good afternoon, Sam"
+greeting("Sam") // "good night, Sam"
 ```
 
